@@ -1,0 +1,13 @@
+.navbar {
+    display: flex;
+    flex-wrap: onwrap;
+    background: rgb(158, 26, 81);
+}
+
+.navbar .menu {
+    list-style: none;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    margin: 10px;
+}
